@@ -232,6 +232,8 @@ SWIFT_CLASS("_TtC18DocumentationSwift13SceneDelegate")
 
 SWIFT_CLASS("_TtC18DocumentationSwift14ViewController")
 @interface ViewController : UIViewController
+/// Override view did load logic here
+/// <em>Note :</em> If you wants to handle user view did load logic, write your code here
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
