@@ -2,8 +2,8 @@
 
 **How to write comment syntax | Syntax guideline here:**
     
-    https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html
-    https://daringfireball.net/projects/markdown/syntax
+https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html
+https://daringfireball.net/projects/markdown/syntax
 
 
 **Open Terminal**
