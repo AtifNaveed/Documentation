@@ -1,4 +1,4 @@
-# Step by Step guide to documentaiton using Jazzy
+# Step by Step guide
 
 Document code: Syntax guideline here:
     
