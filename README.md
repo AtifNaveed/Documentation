@@ -1,6 +1,6 @@
 # Step by Step guide
 
-**Write comment | docmuent your code
+**Write comment | docmuent your code**
        
     // MARK: View Didload Methods
     /**
