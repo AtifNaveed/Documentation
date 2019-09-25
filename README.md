@@ -14,6 +14,6 @@ Open Terminal
     Command line> jazzy --min-acl internal
 
 
-Open project folder and find folder docs
+Open project folder and find folder **docs**
    
-   Open index html file
+   Open **index** html file
