@@ -7,7 +7,7 @@
            /// It will use to handle user tapping action. It will invoke when user tap on alert button.
            var userAction: ((_ action: String) -> ())? = nil
 
-           // MARK: View Didload Methods
+           // MARK: ViewDidLoad Methods
            /**
            Override view did load logic here
 
