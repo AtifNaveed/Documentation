@@ -1,10 +1,14 @@
 # Step by Step guide
 
-**How to write comment syntax | Syntax guideline here:**
-    
-https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html
-https://daringfireball.net/projects/markdown/syntax
+**Write comment | docmuent your code
+       
+    // MARK: View Didload Methods
+    /**
+    Override view did load logic here
+     
+     **Note :** If you wants to handle user view did load logic, write your code here
 
+     */
 
 **Open Terminal**
 
@@ -21,3 +25,9 @@ https://daringfireball.net/projects/markdown/syntax
 
 # Example: 
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/v1569412493/4_ggjy64.png)
+
+
+**Comment syntax guideline:**
+    
+https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html
+https://daringfireball.net/projects/markdown/syntax
