@@ -3,17 +3,13 @@
 **Write comment | docmuent your code**
        
     class ViewController: UIViewController {
-           // MARK: Variables
-           /// It will use to handle user tapping action. It will invoke when user tap on alert button.
-           var userAction: ((_ action: String) -> ())? = nil
-
+   
            // MARK: ViewDidLoad Methods
            /**
            Override view did load logic here
-
-            **Note :** If you wants to handle user view did load logic, write your code here
-
-            */
+           **Note :** If you wants to handle user view did load logic, write your code here
+           */
+           
            override func viewDidLoad() {
                  super.viewDidLoad()
                  // Do any additional setup after loading the view.
