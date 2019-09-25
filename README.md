@@ -9,10 +9,9 @@
            Override view did load logic here
            **Note :** If you wants to handle user view did load logic, write your code here
            */
-           
+
            override func viewDidLoad() {
                  super.viewDidLoad()
-                 // Do any additional setup after loading the view.
            }
     }
 
