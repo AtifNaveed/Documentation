@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "d86269ee9b932aef00c7730dbd1f68c0"
+build_time: [1569410198, 702353000]
+inputs:
+  "/Users/atif/Desktop/DocumentationSwift/DocumentationSwift/ViewController.swift": [9223372036, 854775807]
+  "/Users/atif/Desktop/DocumentationSwift/DocumentationSwift/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/atif/Desktop/DocumentationSwift/DocumentationSwift/SceneDelegate.swift": [9223372036, 854775807]
