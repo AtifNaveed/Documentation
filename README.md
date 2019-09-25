@@ -1,5 +1,4 @@
-# Document your code, classes, methods
-# Find Syntax guideline here:
+# Document code, Find Syntax guideline here:
     
     https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html
     https://daringfireball.net/projects/markdown/syntax
