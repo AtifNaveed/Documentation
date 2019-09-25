@@ -16,4 +16,4 @@
 
 **Open project folder and find folder docs**
    
-   Open **index** html file
+   Open project folder path/**index.html** file
