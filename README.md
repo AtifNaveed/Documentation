@@ -16,7 +16,7 @@
 
 **Open index page**
    
-    Open project folder path/index.html file
+    Open project folder path/docs/index.html file
 
 
 # Example: 
