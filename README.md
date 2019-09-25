@@ -17,3 +17,7 @@
 **Open index page**
    
     Open project folder path/**index.html** file
+
+
+# Example: 
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/v1569412493/4_ggjy64.png)
