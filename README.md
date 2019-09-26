@@ -1,4 +1,4 @@
-# Step by Step guide
+# Step by Step guide Android
 
 **Write comment | docmuent your code**
 
@@ -15,8 +15,7 @@
            }
     }
 
-**Update dependencies & gradle**
-
+# Update dependencies & gradle
 **build.gradle(Project:MyApp)**
 
        dependencies {
