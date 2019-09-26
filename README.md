@@ -64,3 +64,5 @@
 
 # Documentation path
        project root folder > app > build > javadoc > app > index.html
+**Example**
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_691/v1569483361/5_zl6bsv.png)
