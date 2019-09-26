@@ -16,7 +16,7 @@
     }
 
 # Update dependencies & gradle
-**build.gradle(Project:MyApp)**
+**build.gradle(Project:DocumentationKotlin)**
 
        dependencies {
        ...
