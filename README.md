@@ -47,3 +47,14 @@
            }
 
        }
+
+# Generate documentation with
+**Terminal**
+
+       Command line> ./gradlew dokka
+
+**Android Studio**
+
+       Gradle > app > documentation > dokka > click
+
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/v1569482731/1_niw06s.png)
