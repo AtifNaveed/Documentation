@@ -57,3 +57,6 @@
 
 **Output would be like this**
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_475/v1569482975/2_oh4elk.png)
+
+**Output would be like this if run from terminal**
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_346/v1569483080/33_uyferf.png)
