@@ -60,3 +60,7 @@
 
 **Output would be like this if run from terminal**
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_346/v1569483080/33_uyferf.png)
+
+
+# Documentation path
+       project root folder > app > build > javadoc > app > index.html
