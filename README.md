@@ -1,6 +1,6 @@
 # Step by Step guide:
 Swift & Kotlin Project Documentation
-# iOS
+## iOS
 
 **Write comment | docmuent your code**
        
@@ -17,7 +17,7 @@ Swift & Kotlin Project Documentation
            }
     }
 
-# Open Terminal
+## Open Terminal
 **Install Jazzy**
    
     Command line> sudo gem install jazzy
@@ -34,7 +34,7 @@ Swift & Kotlin Project Documentation
     Open project folder path/docs/index.html file
 
 
-# Example: 
+## Example: 
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/v1569412493/4_ggjy64.png)
 
 
@@ -48,7 +48,7 @@ https://daringfireball.net/projects/markdown/syntax
 *****************************************************************************************************************
 -----------------------------------------------------------------------------------------------------------------
 
-# Android
+## Android
 
 **Write comment | docmuent your code**
        
@@ -91,7 +91,7 @@ https://daringfireball.net/projects/markdown/syntax
 
        }
 
-# Generate documentation with
+## Generate documentation with
 **Terminal**
 
        Command line> ./gradlew dokka
@@ -110,13 +110,13 @@ https://daringfireball.net/projects/markdown/syntax
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_346/v1569483080/33_uyferf.png)
 
 
-# Documentation path
+## Documentation path
        project root folder > app > build > javadoc > app > index.html
 
 **Example**
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_402/v1569483616/66_kyydzu.png)
 
-# Syntax Guideline:
+## Syntax Guideline:
 https://kotlinlang.org/docs/reference/kotlin-doc.html
 
 
