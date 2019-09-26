@@ -55,6 +55,5 @@
 
 **Android Studio**
 
-       Gradle > app > documentation > dokka > click
-
-![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/v1569482731/1_niw06s.png)
+**Output would be like this**
+![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_475/v1569482975/2_oh4elk.png)
