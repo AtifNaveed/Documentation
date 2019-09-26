@@ -1,4 +1,5 @@
-# Step by Step guide iOS
+**Step by Step guide**
+# iOS
 
 **Write comment | docmuent your code**
        
@@ -46,7 +47,7 @@ https://daringfireball.net/projects/markdown/syntax
 *****************************************************************************************************************
 -----------------------------------------------------------------------------------------------------------------
 
-# Step by Step guide Android
+# Android
 
 **Write comment | docmuent your code**
        
