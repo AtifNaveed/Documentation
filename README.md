@@ -58,7 +58,7 @@ https://daringfireball.net/projects/markdown/syntax
         Log.e("Tag A", sum.toString())
     }
 
-# Update dependencies & gradle
+## Update dependencies & gradle
 **build.gradle(Project:DocumentationKotlin)**
 
        dependencies {
