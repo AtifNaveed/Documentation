@@ -1,8 +1,8 @@
 # Step by Step guide:
 Swift & Kotlin Project Documentation
-## iOS
-
-**Write comment | docmuent your code**
+## iOS Documentation Swift
+----------------------------
+**Write comment | document your code**
        
     class ViewController: UIViewController {
    
@@ -48,9 +48,9 @@ https://daringfireball.net/projects/markdown/syntax
 *****************************************************************************************************************
 -----------------------------------------------------------------------------------------------------------------
 
-## Android
-
-**Write comment | docmuent your code**
+## Android Documentation Kotlin
+---------------------------------
+**Write comment | document your code**
        
     fun add(a: Int, b: Int) {
         //code here
