@@ -69,7 +69,7 @@ https://daringfireball.net/projects/markdown/syntax
        dependencies {
        ...
        ...
-       classpath  "org.jetbrains.dokka:dokka-android-gradle-plugin:0.9.18"
+                   classpath  "org.jetbrains.dokka:dokka-android-gradle-plugin:0.9.18"
 
        }
 
