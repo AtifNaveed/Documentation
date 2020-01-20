@@ -118,7 +118,7 @@ https://daringfireball.net/projects/markdown/syntax
 ## Documentation path
        project root folder > app > build > javadoc > app > index.html
 
-**Example**
+**Example:**
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_402/v1569483616/66_kyydzu.png)
 
 ## Syntax Guideline:
