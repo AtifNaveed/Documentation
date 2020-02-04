@@ -115,7 +115,7 @@ https://daringfireball.net/projects/markdown/syntax
 ![alt image is missing](https://res.cloudinary.com/atifcloud/image/upload/c_scale,h_346/v1569483080/33_uyferf.png)
 
 
-## Documentation path
+## Documentation path:
        project root folder > app > build > javadoc > app > index.html
 
 **Example:**
