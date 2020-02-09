@@ -6,7 +6,7 @@ Swift & Kotlin Project Documentation
        
     class ViewController: UIViewController {
    
-           // MARK: ViewDidLoad Methods.
+           // MARK: ViewDidLoad Methods
            /**
            Override view did load logic here
            **Note :** If you wants to handle user view did load logic, write your code here
