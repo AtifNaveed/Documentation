@@ -96,7 +96,7 @@ https://daringfireball.net/projects/markdown/syntax
 
        }
 
-## Generate documentation with
+## Generate documentation with:
 **Terminal**
 
        Command line> ./gradlew dokka
