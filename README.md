@@ -101,7 +101,7 @@ https://daringfireball.net/projects/markdown/syntax
 
        Command line> ./gradlew dokka
 
-**Android Studio**
+**Android Studio:**
    
        Gradle > app > documentation > dokka > click & run
 
