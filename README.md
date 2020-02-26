@@ -2,7 +2,7 @@
 Swift & Kotlin Project Documentation
 ## iOS | Documentation | Swift
 -------------------------------
-**Write comment | document your code**
+**Write comment | document your code:**
        
     class ViewController: UIViewController {
    
