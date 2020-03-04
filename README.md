@@ -17,7 +17,7 @@ Swift & Kotlin Project Documentation
            }
     }
 
-## Open Terminal
+## Open Terminal:
 **Install Jazzy**
    
     Command line> sudo gem install jazzy
