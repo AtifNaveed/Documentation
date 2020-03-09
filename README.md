@@ -1,5 +1,5 @@
 # Step by Step guide:
-Swift & Kotlin Project Documentation:
+Swift & Kotlin Project Documentation
 ## iOS | Documentation | Swift
 -------------------------------
 **Write comment | document your code:**
