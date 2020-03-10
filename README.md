@@ -23,7 +23,7 @@ Swift & Kotlin Project Documentation
     Command line> sudo gem install jazzy
     Command line> sudo gem install -n /usr/local/bin jazzy
 
-**Create documentation of your code**
+**Create documentation of your code:**
 
     Command line> cd/Project folder path
     Command line> jazzy --min-acl internal
