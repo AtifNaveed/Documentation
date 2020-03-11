@@ -29,7 +29,7 @@ Swift & Kotlin Project Documentation
     Command line> jazzy --min-acl internal
 
 
-**Open index page of documentation**
+**Open index page of documentation:**
    
     Open project folder path/docs/index.html file
 
